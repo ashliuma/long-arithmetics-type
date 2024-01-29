@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # long-arithmetics-type
 integer type for C++ long arithmetics 
 =======
@@ -56,4 +55,3 @@ Abs(number) - возвращает модуль числа
 Для запуска выполните следующую команду:
 
 ***cmake --build . --target labwork2 && bin/labwork2*** или воспользоваться IDE
->>>>>>> b4927d4 (refactor and restructure code)
